@@ -3,7 +3,8 @@
 This board should allow to replace the original EXT2 connector to a USB-C connector. Both features (power + audio) should work.
 
 ![GBASP](https://raw.githubusercontent.com/giltesa/GBA-SP-USB-C/master/3.%20Documentation/Development%20info/pcb1.jpg)
-![GBASP](https://raw.githubusercontent.com/giltesa/GBA-SP-USB-C/master/3.%20Documentation/Development%20info/pcb2.jpg)
+![GBASP](https://raw.githubusercontent.com/giltesa/GBA-SP-USB-C/master/3.%20Documentation/Development%20info/GBASP%20USB-C%20Render%20Top.png)
+![GBASP](https://raw.githubusercontent.com/giltesa/GBA-SP-USB-C/master/3.%20Documentation/Development%20info/GBASP%20USB-C%20Render%20Bottom.png)
 
 
 
