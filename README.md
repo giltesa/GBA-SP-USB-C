@@ -2,8 +2,8 @@
 
 This board should allow to replace the original EXT2 connector to a USB-C connector. Both features (power + audio) should work.
 
-![GBASP](https://raw.githubusercontent.com/giltesa/Game-Boy-Pocket-USB-C-charging-kit/master/3.%20Documentation/Development%20info/pcb1.jpg)
-![GBASP](https://raw.githubusercontent.com/giltesa/Game-Boy-Pocket-USB-C-charging-kit/master/3.%20Documentation/Development%20info/pcb2.jpg)
+![GBASP](https://raw.githubusercontent.com/giltesa/GBA-SP-USB-C/master/3.%20Documentation/Development%20info/pcb1.jpg)
+![GBASP](https://raw.githubusercontent.com/giltesa/GBA-SP-USB-C/master/3.%20Documentation/Development%20info/pcb2.jpg)
 
 
 
