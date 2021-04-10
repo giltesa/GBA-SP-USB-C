@@ -1,4 +1,4 @@
-# Game Boy Advance SP USB-C
+# Game Boy Advance SP USB-C Charging Kit
 
 This board should allow to replace the original EXT2 connector to a USB-C connector. Both features (power + audio) should work.
 
