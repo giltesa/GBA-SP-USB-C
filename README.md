@@ -5,6 +5,7 @@ This board should allow to replace the original EXT2 connector to a USB-C connec
 ![GBASP](https://raw.githubusercontent.com/giltesa/GBA-SP-USB-C/master/3.%20Documentation/Development%20info/GBASP%20Connector.jpg)
 ![GBASP](https://raw.githubusercontent.com/giltesa/GBA-SP-USB-C/master/4.%20SketchUP/GBASP%20USB-C%20Render%20Top.png)
 ![GBASP](https://raw.githubusercontent.com/giltesa/GBA-SP-USB-C/master/4.%20SketchUP/GBASP%20USB-C%20Render%20Bottom.png)
+![GBASP](https://raw.githubusercontent.com/giltesa/GBA-SP-USB-C/master/4.%20SketchUP/Plastic%20Cap/v5/GBA-SP-CAP.jpg)
 
 
 
