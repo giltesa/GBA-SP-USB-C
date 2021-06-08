@@ -1,4 +1,4 @@
-# Game Boy Advance SP USB-C Charging Kit
+# Game Boy Advance SP USB-C & Audio Kit
 
 This board allows to replace the original EXT2 connector and keep both original features: You can charge the GBASP by USB-C and **connect to your headphones to hear the games**!
 
