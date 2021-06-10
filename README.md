@@ -18,7 +18,7 @@ Game Boy Advance SP USB-C & Audio Kit (Installation)
 
 ## You can get more information on my website:
 
-[**Game Boy Advance USB-C Kit (EN)**](https://giltesa.com/en/nintendo-usb-c-charging-kit).
+[**Game Boy Advance USB-C Kit (EN)**](https://giltesa.com/en/nintendo-usb-c-charging-kit)
 
 
 
