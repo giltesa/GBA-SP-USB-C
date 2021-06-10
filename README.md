@@ -7,14 +7,19 @@ This board allows to replace the original EXT2 connector and keep both original 
 ![GBASP](https://raw.githubusercontent.com/giltesa/Game-Boy-Advance-SP-USB-C-charging-kit/master/5.%20Photos/GBASP_USB_8.jpg)
 
 
+
 ## Youtube:
 
-[![Game Boy Advance USB-C Kit (Installation)](https://img.youtube.com/vi/e_Pdkdgis8E/0.jpg)](https://www.youtube.com/watch?v=e_Pdkdgis8E)
+Game Boy Advance SP USB-C & Audio Kit (Installation)
+
+[![GBASP](https://img.youtube.com/vi/e_Pdkdgis8E/0.jpg)](https://www.youtube.com/watch?v=e_Pdkdgis8E)
+
 
 
 ## You can get more information on my website:
 
 [**Game Boy Advance USB-C Kit (EN)**](https://giltesa.com/en/nintendo-usb-c-charging-kit).
+
 
 
 ## License
