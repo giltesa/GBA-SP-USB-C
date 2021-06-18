@@ -1,6 +1,5 @@
 ![GBASP](https://raw.githubusercontent.com/giltesa/Game-Boy-Advance-SP-USB-C-charging-kit/master/5.%20Photos/GBASP_USB-C_Render_Top.jpg)
 ![GBASP](https://raw.githubusercontent.com/giltesa/Game-Boy-Advance-SP-USB-C-charging-kit/master/5.%20Photos/GBASP_USB-C_Rende_Bottom.jpg)
-![GBASP](https://raw.githubusercontent.com/giltesa/Game-Boy-Advance-SP-USB-C-charging-kit/master/5.%20Photos/IMG_20210616_155225.jpg)
 ![GBASP](https://raw.githubusercontent.com/giltesa/Game-Boy-Advance-SP-USB-C-charging-kit/master/5.%20Photos/GBASP_USB_1.jpg)
 ![GBASP](https://raw.githubusercontent.com/giltesa/Game-Boy-Advance-SP-USB-C-charging-kit/master/5.%20Photos/GBASP_USB_2.jpg)
 ![GBASP](https://raw.githubusercontent.com/giltesa/Game-Boy-Advance-SP-USB-C-charging-kit/master/5.%20Photos/GBASP_USB_3.jpg)
