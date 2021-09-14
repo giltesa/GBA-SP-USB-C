@@ -1,0 +1,7 @@
+Partlist exported from GBASP USB-C.sch at 08/04/2021 00:23:42
+
+Assembly variant:
+
+Qty Value       Device                 Parts
+1   USB-C_AUDIO USB-C_POWER_AUDIOSHLD2 J1
+2   5.1k        R0402                  R1, R2
