@@ -1,0 +1,7 @@
+Partlist exported from GBASP USB-C.sch at 23/04/2021 01:18:02
+
+Assembly variant:
+
+Qty Value       Device                 Parts
+1   USB-C_AUDIO USB-C_POWER_AUDIOSHLD4 J1
+2   5K1         RESISTOR.0402          R1, R2
