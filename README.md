@@ -27,6 +27,7 @@ Game Boy Advance SP USB-C & Audio Kit (Installation)
 Thanks to these makers for publishing the information about the pinout and their experiences, it helped me to make this board:
 
 [ishoug](https://www.youtube.com/watch?v=KATEinUUWz0 "ishoug")
+
 [666Gothicgirl](https://www.youtube.com/watch?v=5_2sGFCsaPw "666Gothicgirl")
 
 
