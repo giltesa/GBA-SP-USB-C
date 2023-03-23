@@ -19,6 +19,7 @@ Game Boy Advance SP USB-C & Audio Kit (Installation)
 ## Would you like it?
 
 https://shop.giltesa.com/product/game-boy-advance-sp-usb-c-kit/
+
 https://shop.giltesa.com/product/game-boy-advance-sp-usb-c-kit-centered/
 
 
