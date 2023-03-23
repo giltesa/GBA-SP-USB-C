@@ -2,9 +2,9 @@
 
 This board allows to replace the original EXT2 connector and keep both original features: You can charge the GBASP by USB-C and **connect to your headphones to hear the games**!
 
-![GBASP](https://raw.githubusercontent.com/giltesa/Game-Boy-Advance-SP-USB-C-charging-kit/master/5.%20Photos/GBASP_USB_8.jpg)
-![GBASP](https://raw.githubusercontent.com/giltesa/Game-Boy-Advance-SP-USB-C-charging-kit/master/5.%20Photos/GBASP_USB_3.jpg)
-![GBASP](https://raw.githubusercontent.com/giltesa/Game-Boy-Advance-SP-USB-C-charging-kit/master/5.%20Photos/GBASP_USB_6.jpg)
+![GBASP](https://raw.githubusercontent.com/giltesa/Game-Boy-Advance-SP-USB-C-charging-kit/master/4.%20Photos/v1.2/GBASP_USB_8.jpg)
+![GBASP](https://raw.githubusercontent.com/giltesa/Game-Boy-Advance-SP-USB-C-charging-kit/master/4.%20Photos/v1.2/GBASP_USB_3.jpg)
+![GBASP](https://raw.githubusercontent.com/giltesa/Game-Boy-Advance-SP-USB-C-charging-kit/master/4.%20Photos/v1.2/GBASP_USB_6.jpg)
 
 
 
@@ -16,9 +16,17 @@ Game Boy Advance SP USB-C & Audio Kit (Installation)
 
 
 
-## You can get more information on my website:
+## Would you like it?
 
-[**Game Boy Advance USB-C Kit (EN)**](https://giltesa.com/en/nintendo-usb-c-charging-kit)
+https://shop.giltesa.com/product/game-boy-advance-sp-usb-c-kit/
+https://shop.giltesa.com/product/game-boy-advance-sp-usb-c-kit-centered/
+
+
+
+## More
+
+- [giltesa.com](https://giltesa.com "giltesa.com")
+- [twitter.com](https://twitter.com/giltesa/status/1503669454852481024 "twitter.com")
 
 
 
